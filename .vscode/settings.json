@@ -1,0 +1,8 @@
+{
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "editor.insertSpaces": true,
+    "[python]": {
+        "editor.defaultFormatter": null
+    }
+}
